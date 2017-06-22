@@ -25,12 +25,14 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Submit"/>
+            android:text="Submit"
+            android:onClick="onSubmitClick"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Give up"/>
+            android:text="Give up"
+            android:onClick="onGivupClick"/>
     </LinearLayout>
 
 </LinearLayout>

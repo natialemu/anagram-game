@@ -1,5 +1,4 @@
-package android.anagramapplication;
-
+package android.anagramapplication.Model;
 
 
 /**
