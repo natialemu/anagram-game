@@ -15,6 +15,7 @@ public class DifficultyActivity extends AppCompatActivity {
     }
 
     public void onEasyClick(View view) {
+
     }
 
     public void onMediumClick(View view) {
