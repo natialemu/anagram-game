@@ -13,6 +13,7 @@ public interface AnagramDictionaryInterface {
     boolean checkAnswer(String targetWord, String answer);
 
     List<String> getAllPossibleAnagrams(String targetWord);
+    void mapWord(String word);
 
     //checks if the user got the right answer
 
