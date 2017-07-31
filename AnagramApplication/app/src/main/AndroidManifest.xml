@@ -18,7 +18,6 @@
         <activity android:name=".View.GameActivity" />
         <activity android:name=".View.HelpActivity" />
         <activity android:name=".View.AnswerActivity" />
-        <activity android:name=".View.DifficultyActivity"></activity>
     </application>
 
 </manifest>
